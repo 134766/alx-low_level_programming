@@ -6,7 +6,7 @@
 
 /**
  *
- * *main - Main function of my project
+ * *main - My shell hello project so nice
  *
  * *
  *
@@ -26,7 +26,7 @@ int main(void)
 
 
 
-			strcpy(displayed, "\"Programming is like building a multilingual puzzle");
+			strcpy(displayed, "\"Programming is so fun like watching football");
 
 				puts(displayed);
 
